@@ -1,0 +1,1 @@
+This is a collection of practice work I did while learning about the details of implementing fundamental regression and other libraries through the Deeplearning.ai and Stanford Machine Learning Specialization course. 
